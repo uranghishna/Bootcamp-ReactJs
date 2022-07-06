@@ -1,0 +1,25 @@
+.container__bottom a{
+
+    margin: auto;
+    
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    color:aliceblue ;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #A149FA;
+    width: 98%;
+
+}
+.button{
+    display: inline-block;
+    border-radius: 20px;
+    background-color: #50ff0a;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding: 5px;
+}
+
+
