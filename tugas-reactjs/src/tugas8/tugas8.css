@@ -1,0 +1,14 @@
+.react{
+  width:500px;
+  border: 2px solid black;
+  box-shadow: 9px 12px 22px 0px #000;
+  margin: 100px auto;
+  padding: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+.garis{
+  border-bottom: 2px solid black;
+}
+.peserta{
+    text-align: left !important;
+}
